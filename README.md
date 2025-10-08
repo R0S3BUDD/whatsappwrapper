@@ -23,8 +23,6 @@ The app will act as a standalone window with system notifications, audio and vid
 
 ---
 
----
-
 ## 🇪🇸 Descripción del proyecto
 
 El objetivo de este proyecto es crear una aplicación ligera que permita usar **WhatsApp** desde el escritorio de Linux sin depender de navegadores externos.  
@@ -44,4 +42,4 @@ La aplicación funcionará como un **wrapper** (envoltorio) alrededor de WhatsAp
 - **JavaFX** (para la interfaz gráfica)
 - **Gradle** (gestor de dependencias)
 - **WebView** (para mostrar WhatsApp Web embebido)
-- **Linux (entorno gráfico GNOME, KDE o Cinnamon recomendado)**
+- **Linux (entorno gráfico GNOME, KDE, XFCE o Cinnamon recomendado)**
